@@ -1,1 +1,4 @@
-file2
+#!/bin/bash
+echo "fiest commit in $HOSTNAME"
+
+
